@@ -15,7 +15,7 @@ const NotFound = () => {
   return (
     <div className="not-found">
       <h1>Oooups...</h1>
-      <h2>The page you&apos;re looking for doesn&apos;t exist</h2>
+      <h2>The page you&apos;re looking for doesn&apos;t exist, thanks</h2>
       <p>
         Go back to the{" "}
         <Link href="/">
