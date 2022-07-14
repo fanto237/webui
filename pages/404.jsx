@@ -9,7 +9,7 @@ const NotFound = () => {
     setTimeout(() => {
       // router.go(1 or -1)
       router.push("/");
-    }, 3000);
+    }, 4000);
   }, []);
 
   return (
