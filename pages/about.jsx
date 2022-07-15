@@ -14,6 +14,15 @@ const About = () => {
         repudiandae ab aliquam quo accusantium doloremque dolor neque vero
         nesciunt tenetur recusandae.
       </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto ut
+        dolore, corporis maxime velit ea modi laborum provident cum fugit
+        consequatur dolorem earum placeat explicabo quisquam. Dignissimos ab,
+        vitae officia blanditiis, sunt aut at mollitia qui reprehenderit esse
+        autem natus? Maxime, minima nostrum suscipit perferendis consequuntur
+        omnis necessitatibus. Iusto dolores doloribus impedit quidem quisquam
+        suscipit libero?
+      </p>
     </div>
   );
 };
