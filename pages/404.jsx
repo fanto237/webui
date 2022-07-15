@@ -9,8 +9,8 @@ const NotFound = () => {
     setTimeout(() => {
       // router.go(1 or -1)
       router.push("/");
-    }, 4000);
-  }, []);
+    }, 3000);
+  }, [router]);
 
   return (
     <div className="not-found">
